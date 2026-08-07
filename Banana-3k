@@ -39,7 +39,7 @@ getgenv().SettingFarm ={
     },
     ["Farm Fragments"] = {
         ["Enabled"]  = false,
-        ["Fragment"] = 30000,
+        ["Fragment"] = 50000,
     },
     ["Auto Chat"] = {
         ["Enabled"] = false,
@@ -61,14 +61,14 @@ getgenv().SettingFarm ={
         ["Sword"] = false,
     },
     ["Buy Haki"] = {
-        ["Enhancement"] = true,
+        ["Enhancement"] = false,
         ["Skyjump"] = true,
         ["Flash Step"] = true,
         ["Observation"] = true,
     },
     ["Sniper Fruit Shop"] = {
         ["Enabled"] = true, -- Auto Buy Fruit in Shop Mirage and Normal
-        ["Fruit"] = {"Leopard-Leopard","Kitsune-Kitsune","Dragon-Dragon","Yeti-Yeti","Gas-Gas"},
+        ["Fruit"] = {"Leopard-Leopard","Kitsune-Kitsune","Dough-Dough","Yeti-Yeti","Gas-Gas","Dragon-Dragon"},
     },
     ["Lock Fruit"] = {},
     ["Webhook"] = {
